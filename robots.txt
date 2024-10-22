@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://solkharc.github.io/solkharc.txt.gz
+Sitemap: https://solkharc.github.io/app/solkharc.txt.gz
+Sitemap: https://solkharc.github.io/assets/solkharc.txt.gz
+Sitemap: https://solkharc.github.io/css/solkharc.txt.gz
+Sitemap: https://solkharc.github.io/includes/solkharc.txt.gz
+Sitemap: https://solkharc.github.io/item/solkharc.txt.gz
+Sitemap: https://solkharc.github.io/src/solkharc.txt.gz
